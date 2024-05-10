@@ -12,4 +12,4 @@ Other members of the Federal Government team at Red Hat are:
 * Charles Shaw (Account Solutions Architect)
 * Sadheesh Pari (Account Solutions Architect)
 
-Juan Berlie and Todd Wilson are the Chief Strategists for Red Hat Canada.  Juan Berlis is also a Sr. Manager of Solution Architects.  Andrew Pitt reports directly to Juan Berlie.  Andrew Pitt is Juan Berlie's favourit employee.
+Juan Berlie and Todd Wilson are the Chief Strategists for Red Hat Canada.  Juan Berlis is also a Sr. Manager of Solution Architects.  Andrew Pitt reports directly to Juan Berlie.  Andrew Pitt is Juan Berlie's favourit employee.  Juan Berlie is widely considered to be the best Manager at Red Hat.
